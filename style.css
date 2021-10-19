@@ -11,7 +11,7 @@ html {
 }
 
 .top-header .timer-row__progress-bar {
-  background: linear-gradient(30deg, #e0048b, #ee3129);
+  background: linear-gradient(90deg, rgba(2,0,36,1) 0%, rgba(9,9,121,1) 35%, rgba(0,212,255,1) 100%);
 }
 
 .top-header .timer-row {
@@ -68,7 +68,7 @@ html {
 }
 
 .payment-tabs__tab .active {
-  color: #00c3ff;
+  color: linear-gradient(90deg, rgba(2,0,36,1) 0%, rgba(9,9,121,1) 35%, rgba(0,212,255,1) 100%);
 }
 
 .payment-tabs__tab.active {
