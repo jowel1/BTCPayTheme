@@ -11,7 +11,7 @@ html {
 }
 
 .top-header .timer-row__progress-bar {
-  background: #00c3ff;
+  background: linear-gradient(30deg, #e0048b, #ee3129);
 }
 
 .top-header .timer-row {
